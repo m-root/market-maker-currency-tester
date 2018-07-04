@@ -1,4 +1,4 @@
-from data_stream import Fcoin
+from fcoin import Fcoin
 
 a = "btcusdt"
 aa = 1e-3
